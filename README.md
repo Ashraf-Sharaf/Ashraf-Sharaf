@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashraf Sharaf</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 📫 How to reach me **ashrafsharafcs@gmail.com**
+- 📫 Reach me **ashrafsharafcs@gmail.com**
 - 👨‍💻 All of my projects are available at **My github**
 - ⚡ Fun fact **I'm a coffee addict :)**
 
