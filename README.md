@@ -3,7 +3,6 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 - 📫 Reach me **ashrafsharafcs@gmail.com**
-- 👨‍💻 All of my projects are available at **My github**
 - ⚡ Fun fact **I'm a coffee addict :)**
 
 <div> <a href="https://github.com/ashraf-sharaf" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
